@@ -1,0 +1,10 @@
+@import 'variables';
+@import 'fonts';
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    font-family: $primary-font;
+  }
